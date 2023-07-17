@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.criipto.exposample",
+      "sha256_cert_fingerprints": [
+        "1B:9A:6C:2E:33:E5:3E:AE:32:EC:40:97:11:BF:87:76:EE:56:78:EC:2A:3A:62:C9:A4:BC:D0:C2:7A:BC:11:4D"
+      ]
+    }
+  }
+]
