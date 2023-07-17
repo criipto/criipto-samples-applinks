@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.criipto.exposample",
       "sha256_cert_fingerprints": [
-        "1B:9A:6C:2E:33:E5:3E:AE:32:EC:40:97:11:BF:87:76:EE:56:78:EC:2A:3A:62:C9:A4:BC:D0:C2:7A:BC:11:4D"
+        "1B:9A:6C:2E:33:E5:3E:AE:32:EC:40:97:11:BF:87:76:EE:56:78:EC:2A:3A:62:C9:A4:BC:D0:C2:7A:BC:11:4D",
+        "91:E0:D8:73:DD:62:BB:D8:0B:5F:09:03:79:15:82:DD:17:23:71:18:6D:A2:43:FA:72:83:B1:F7:33:64:84:F2"
       ]
     }
   }
