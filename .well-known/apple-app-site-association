@@ -4,7 +4,11 @@
     "details": [
       {
         "appID": "P56KU6NT8A.com.criipto.demo-cool-energy-expo",
-        "paths": ["*"]
+        "components": [
+          {
+            "/": "/auth/criipto"
+          }
+        ]
       }
     ]
   }
